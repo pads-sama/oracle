@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah Jae",
+        "role": "Branding Specialist",
+        "image": "images/img_rectangle_16.png",
+        "alt": "Sarah Jae"
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "role": "Product Designer",
+        "image": "images/img_rectangle_15.png",
+        "alt": "John Doe"
+    },
+    {
+        "id": 3,
+        "name": "Samantha",
+        "role": "SEO Specialist",
+        "image": "images/img_rectangle_17.png",
+        "alt": "Samantha"
+    },
+    {
+        "id": 4,
+        "name": "Lila Laconsia",
+        "role": "UI Designer",
+        "image": "images/img_rectangle_18.png",
+        "alt": "Lila Laconsia"
+    },
+    {
+        "id": 5,
+        "name": "Ana Louren",
+        "role": "Illustrator",
+        "image": "images/img_rectangle_19.png",
+        "alt": "Ana Louren"
+    },
+    {
+        "id": 6,
+        "name": "Rico John",
+        "role": "UX Principles",
+        "image": "images/img_rectangle_20.png",
+        "alt": "Rico John"
+    },
+    {
+        "id": 7,
+        "name": "Randy Okla",
+        "role": "Interaction Designer",
+        "image": "images/img_rectangle_21.png",
+        "alt": "Randy Okla"
+    },
+    {
+        "id": 8,
+        "name": "Sinta Marcus",
+        "role": "UX Writer",
+        "image": "images/img_rectangle_22.png",
+        "alt": "Sinta Marcus"
+    },
+    {
+        "id": 9,
+        "name": "Sam Rivald",
+        "role": "Front-end Developer",
+        "image": "images/img_rectangle_23.png",
+        "alt": "Sam Rivald"
+    }
+]
